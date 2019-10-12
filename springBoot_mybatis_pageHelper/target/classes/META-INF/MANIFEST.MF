@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: LJQ
+Build-Jdk: 12.0.1
+Implementation-Title: springBoot_mybatis_pageHelper
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lzu.edu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springBoot_mybatis_pageHelper
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: LJQ
+Build-Jdk: 12.0.1
+Implementation-Title: SpringBoot_HelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lzu.edu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBoot_HelloWorld
+Created-By: Maven Integration for Eclipse
+
